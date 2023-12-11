@@ -1,6 +1,9 @@
 # Dat Nguyen's Portfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2028
+This is my home page! My name is Dat Nguyen and I am a student at Cal State Fullerton and my major is computer science.
+
+## Computer science Projects
+My Github page is http://github.com/Swenphoenix.
 
 ## Favorite CPSC 120L Labs
 
