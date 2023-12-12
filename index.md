@@ -1,11 +1,12 @@
+
 # Dat Nguyen's Portfolio
 
 This is my home page! My name is Dat Nguyen and I am a student at Cal State Fullerton and my major is computer science.
 
 ## Computer science Projects
-My Github page is http://github.com/Swenphoenix.
+My Github page is http://github.com/Swenphoenix/swenphoenix.github.io.git.
 
-## Favorite CPSC 120L Labs
+### Favorite CPSC 120L Labs
 
 Lab 1, part 1
 This was one of the more memorable lab for me due to the fact that it was the first ever time i ever coded C++. It was mostly confusing when it comes to suffeling around but in the end it was quite fun and a very nice start to get into C++ as a whole.
